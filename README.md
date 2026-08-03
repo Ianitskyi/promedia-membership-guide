@@ -1,6 +1,6 @@
 # promedia-membership-guide
 
-«Хендбук членства» — український переклад The Membership Guide
+«Посібник з розвитку спільнот» — український переклад The Membership Guide
 (The Membership Puzzle Project та The Lenfest Institute), спецпроєкт
 ГО «ПроМедіа».
 
@@ -14,4 +14,4 @@ Project (лист від 5 жовтня 2025 року, підтверджено 
 — компоненти цього проєкту. Публікація через GitHub Pages
 (`.github/workflows/deploy-pages.yml`, деплой з гілки `main`).
 
-Оригінал хендбуку англійською — https://membershipguide.org/handbook
+Оригінал посібника англійською — https://membershipguide.org/handbook
