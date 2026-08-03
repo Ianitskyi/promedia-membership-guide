@@ -313,6 +313,28 @@
 
 .mg-section li { font-size: 15px; line-height: 1.7; margin-bottom: 6px; }
 
+/* ---------- pull quote ---------- */
+
+.mg-quote {
+  margin: 22px 0;
+  padding: 4px 0 4px 20px;
+  border-left: 3px solid var(--accent);
+  font-family: var(--serif);
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+/* ---------- source / disclosure note ---------- */
+
+.mg-source-note {
+  color: var(--muted);
+  font-size: 12.5px;
+  line-height: 1.6;
+  margin: -8px 0 16px;
+}
+
 /* ---------- case-study teaser callout ---------- */
 
 .mg-case-note {
